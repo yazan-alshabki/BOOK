@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1676129991 source:d:\projects\new folder\book_project\main.cpp
+	"REGISTER.h"
+	<bits/stdc++.h>
+
+1676129991 d:\projects\new folder\book_project\include\register.h
+	<bits/stdc++.h>
+
+1676131614 source:d:\projects\new folder\book_project\src\register.cpp
+	"REGISTER.h"
+
+1676133591 source:d:\projects\book\book_project\main.cpp
+	"REGISTER.h"
+	<bits/stdc++.h>
+
+1676133591 d:\projects\book\book_project\include\register.h
+	<bits/stdc++.h>
+
